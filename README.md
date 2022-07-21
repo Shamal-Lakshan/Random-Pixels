@@ -2,7 +2,7 @@
 # Random-Pixels
 A simple generative art script using Python.
 
-![](https://github.com/Shamal-Lakshan/MD-Images/blob/main/rpixels.GIF?raw=true)
+![](https://i.imgur.com/vPe0I1t.gif)
 
 ## Requirements
 - [random](https://docs.python.org/3/library/random.html)
@@ -11,7 +11,6 @@ A simple generative art script using Python.
 
 ## Sample Images
 
-<img src="https://github.com/Shamal-Lakshan/MD-Images/blob/main/ae7f24c2-bfa6-11ec-b42c-1d5744d021b4.png?raw=true" alt="img" height="250px">
-<img src="https://github.com/Shamal-Lakshan/MD-Images/blob/main/aea2b36a-bfa6-11ec-b42c-1d5744d021b4.png?raw=true" alt="img" height="250px">
-<img src="https://github.com/Shamal-Lakshan/MD-Images/blob/main/aea2b36a-bfa6-11ec-b42c-1d5744d021b4.png?raw=true" alt="img" height="250px">
-<img src="https://github.com/Shamal-Lakshan/MD-Images/blob/main/aee1b1b4-bfa6-11ec-b42c-1d5744d021b4.png?raw=true" alt="img" height="250px">
+![](https://i.imgur.com/5JgNBsP.png)
+![](https://i.imgur.com/Vyzsl84.png)
+![](https://i.imgur.com/yWTDYe2.png)
